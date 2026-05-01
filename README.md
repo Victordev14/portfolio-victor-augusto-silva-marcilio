@@ -1,1 +1,55 @@
-# potifolio-victor-augusto-silva-marcilio
+# Victor Augusto
+> Estudante de Ciência da Computação
+
+---
+
+### 📫 Contato & Redes Sociais
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USER_AQUI)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USER_AQUI)
+
+---
+
+### 👨‍💻 Sobre
+Atualmente cursando Ciência da Computação e atuando como Jovem Aprendiz na Ecourbis Ambiental S/A. Sou apaixonado por resolver problemas através da tecnologia, com foco em **Desenvolvimento Backend, Automação de Processos e Web Scraping**.
+
+* **Habilidades Técnicas:** Python (Flask, Selenium), SQL, Integração de APIs, Web Scraping e Automação de Tarefas.
+* **Habilidades Socioemocionais:** Trabalho em equipe, proatividade, comunicação assertiva e adaptabilidade.
+* **Experiência/Projetos Relevantes:** Desenvolvimento de sistemas de auditoria de vendas e plataformas voltadas para sustentabilidade e gamificação.
+
+---
+
+### 🛠 Minhas Ferramentas Favoritas
+#### 💻 Linguagens e Tecnologias
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+#### 🗄️ Banco de Dados & Ferramentas
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📂 Portfólio de Projetos
+#### 🌐 Web & Sustentabilidade
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **ReCiclo** | Plataforma de educação ambiental gamificada (Flask/JS). | [Ver Projeto](./reciclo/) |
+| **Auditoria de Vendas** | Script em Python para validação lógica de limites e médias de vendas. | [Ver Projeto](./vendas-audit/) |
+
+#### 🤖 Automação e Scraping
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Web Scraper** | Automação para coleta de dados estruturados utilizando Selenium. | [Ver Projeto](./scraper-projeto/) |
+
+---
+
+### 🏗 Estrutura do Repositório
+Abaixo, a organização deste repositório para facilitar a navegação:
+
+- `root/`: Arquivo de apresentação principal.
+- `/reciclo/`: Código-fonte da plataforma ReCiclo.
+- `/vendas-audit/`: Lógica de processamento e auditoria em Python.
