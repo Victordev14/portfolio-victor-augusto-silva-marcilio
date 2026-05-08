@@ -38,8 +38,7 @@ Atualmente cursando Ciência da Computação e atuando como Jovem Aprendiz na Ec
 #### 🗃️ Programação de Computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
- **Algoritmo de Auditoria de Dados** | Um programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto] 
----
+ **Algoritmo de Auditoria de Dados** | Um programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto] [Ver Projeto]
 
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
