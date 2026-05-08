@@ -38,7 +38,7 @@ Atualmente cursando Ciência da Computação e atuando como Jovem Aprendiz na Ec
 #### 🗃️ Programação de Computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
- **Algoritmo de Auditoria de Dados** | Um programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto] [Ver Projeto]
+ **Algoritmo de Auditoria de Dados** | Um programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](https://github.com/Victordev14/portfolio-victor-augusto-silva-marcilio/tree/main/Algoritmo%20de%20Auditoria%20de%20Dados)
 
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
