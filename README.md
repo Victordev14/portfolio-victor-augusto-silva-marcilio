@@ -39,11 +39,6 @@ Atualmente cursando Ciência da Computação e atuando como Jovem Aprendiz na Ec
 
 
 
-#### 🤖 Automação e Scraping
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Web Scraper** | Automação para coleta de dados estruturados utilizando Selenium. | [Ver Projeto](./scraper-projeto/) |
-
 ---
 
 ### 🏗 Estrutura do Repositório
