@@ -34,11 +34,10 @@ Atualmente cursando Ciência da Computação e atuando como Jovem Aprendiz na Ec
 ---
 
 ### 📂 Portfólio de Projetos
-#### 🌐 Web & Sustentabilidade
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **ReCiclo** | Plataforma de educação ambiental gamificada (Flask/JS). | [Ver Projeto](./reciclo/) |
-| **Auditoria de Vendas** | Script em Python para validação lógica de limites e médias de vendas. | [Ver Projeto](./vendas-audit/) |
+
+🗃️ Programação de Computadores
+
+
 
 #### 🤖 Automação e Scraping
 | Projeto | Descrição | Link |
