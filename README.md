@@ -35,8 +35,9 @@ Atualmente cursando Ciência da Computação e atuando como Jovem Aprendiz na Ec
 
 ### 📂 Portfólio de Projetos
 
-🗃️ Programação de Computadores
-
+#### 🗃️ Programação de Computadores
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
 
 
 ---
