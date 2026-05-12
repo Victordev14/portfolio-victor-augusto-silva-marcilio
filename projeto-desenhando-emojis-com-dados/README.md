@@ -1,37 +1,34 @@
-🎨 Projeto: Desenhando Emojis com Dados (.py)
-📝 Descrição do Projeto
-Este projeto consiste num script de visualização criativa desenvolvido em Python para transformar conjuntos de dados (matrizes ou listas) em representações visuais utilizando emojis. O sistema atua como uma camada de renderização, processando dados numéricos ou categóricos para mapear valores específicos em caracteres Unicode, criando uma espécie de "pixel art" automatizada baseada em texto.
+# 🎨 Projeto: Desenhando Emojis com Dados (`.py`)
 
-O algoritmo foca no mapeamento lógico de padrões e na geração dinâmica de grades, oferecendo uma forma lúdica e inovadora de interpretar distribuições de dados e estruturas de repetição através de uma interface de terminal ou ficheiro de texto.
+### 📝 Descrição do Projeto
 
-🚀 Funcionalidades Principais
-🧩 Mapeamento de Dados: Conversão inteligente de valores (ex: 0 e 1, ou categorias) para uma paleta de emojis personalizada.
+Este projeto consiste num script de visualização criativa desenvolvido em Python para transformar conjuntos de dados numéricos ou categóricos em representações visuais utilizando emojis. O sistema atua como uma camada de renderização artística, processando matrizes e tabelas de dados para mapear valores específicos em caracteres Unicode (emojis), criando "pixel art" ou gráficos baseados em texto.
 
-📐 Gerador de Grades (Grids): Criação dinâmica de matrizes visuais que respeitam a proporção dos dados de entrada.
+O algoritmo foca no mapeamento de **padrões de dados** para paletas de emojis (representando densidade, sentimento ou categorias) e na geração dinâmica de grades visuais, oferecendo uma forma lúdica e acessível de explorar e interpretar distribuições estatísticas e informações complexas.
 
-🎨 Customização de Temas: Facilidade em alterar o "set" de emojis para representar diferentes tipos de informação (ex: clima, sentimentos ou densidade).
+---
 
-📂 Exportação de Arte: Capacidade de gerar o resultado final diretamente no terminal ou guardar num ficheiro .txt.
+### 🚀 Funcionalidades Principais
 
-🛠️ Tecnologias e Conceitos Utilizados
-Linguagem: Python 3.x
+* **🧩 Mapeamento Dinâmico:** Tradução de valores (ex: 0 e 1, ou categorias) para uma paleta de emojis personalizada.
+* **📐 Gerador de Matrizes Visuais (Grids):** Criação de grades que respeitam a proporção e estrutura dos dados de entrada.
+* **🎨 Customização de Temas:** Facilidade em alterar os emojis para representar diferentes tipos de informação.
+* **📂 Exportação de Arte:** Capacidade de gerar o resultado final diretamente no terminal ou salvar num arquivo `.txt`.
 
-Estruturas de Dados: Listas aninhadas (Matrizes) e Dicionários para mapeamento.
+---
 
-Lógica de Programação: Loops complexos (Nested Loops) e condicionais para renderização precisa.
+### 🛠️ Tecnologias e Conceitos Utilizados
 
-Encoding: Manipulação de caracteres Unicode/UTF-8.
+* **Linguagem:** Python 3.x
+* **Lógica de Dados:** Manipulação de listas aninhadas e dicionários de mapeamento.
+* **Saída:** Terminal compatível com UTF-8 / Caracteres Unicode.
 
-📂 Como Executar
-Clone o repositório:
+---
 
-Bash
-git clone https://github.com/seu-usuario/projeto-desenhando-emojis.git
-Navegue até a pasta:
+### 📂 Como Executar
 
-Bash
-cd projeto-desenhando-emojis
-Execute o script:
+1. **Clone o repositório:**
+   ```bash
+   git clone [https://github.com/seu-usuario/projeto-desenhando-emojis.git](https://github.com/seu-usuario/projeto-desenhando-emojis.git)
 
-Bash
-python desenhando-emojis-com-dados.py
+   cd projeto-desenhando-emojis
