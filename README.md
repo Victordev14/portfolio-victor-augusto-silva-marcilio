@@ -39,7 +39,7 @@ Atualmente cursando Ciência da Computação e atuando como Jovem Aprendiz na Ec
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
  **Algoritmo de Auditoria de Dados** | Um programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](https://github.com/Victordev14/portfolio-victor-augusto-silva-marcilio/tree/main/Algoritmo%20de%20Auditoria%20de%20Dados) 
-| **Traduzindo Lógica para Python** |Uma série de scripts desenvolvidos para exercitar a transição entre lógica de programação e a sintaxe da linguagem Python. Os algoritmos abordam problemas comuns do quotidiano, como gestão de vendas, análise climática, controlo académico e simulações financeiras. | [Ver Projeto](./projeto-traduzindo-logica-para-python) |
+| **Traduzindo Lógica para Python** |Uma série de scripts desenvolvidos para exercitar a transição entre lógica de programação e a sintaxe da linguagem Python. Os algoritmos abordam problemas comuns do quotidiano, como gestão de vendas, análise climática, controlo académico e simulações financeiras. | [Ver Projeto](https://github.com/Victordev14/portfolio-victor-augusto-silva-marcilio/tree/main/projeto-desenhando-emojis-com-dados) |
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
 
