@@ -1,4 +1,4 @@
-# 🎨 Projeto: Desenhando Emojis com Dados (`.py`)
+# 🎨 Projeto: Desenhando Emojis com Dados 
 
 ### 📝 Descrição do Projeto
 
